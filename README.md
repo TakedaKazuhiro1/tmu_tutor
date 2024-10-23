@@ -6,3 +6,4 @@ This is a test!
 面倒くさがらずにちゃんとやりましょう。
 Gitは大本のシステムで、GitHubはそれを使ったプラットフォームということであってますか？→あってます。
 nankatuikasita 
+acnoenvevdrvwfsd
